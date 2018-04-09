@@ -33,6 +33,7 @@ public class JBDBCEx {
 		    {
 		    	System.out.println(" data is inserted in student table");
 		    			System.out.println("data changed inserted first time");
+		    			System.out.println("data changed inserted 2nd time");
 		    }
 		    ps.close();
 		    con.close();
