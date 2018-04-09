@@ -32,6 +32,7 @@ public class JBDBCEx {
 		    else
 		    {
 		    	System.out.println(" data is inserted in student table");
+		    			System.out.println("data changed inserted first time");
 		    }
 		    ps.close();
 		    con.close();
