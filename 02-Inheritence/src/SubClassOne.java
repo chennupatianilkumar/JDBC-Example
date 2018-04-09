@@ -4,6 +4,7 @@ public class SubClassOne extends Calculator {
 		SubClassOne one = new SubClassOne();
 		float result = one.calculate(10, 20, 30);
 		System.out.println("Result: " + result);
+		System.out.println("Simple git Example");
 		
 	}
 
